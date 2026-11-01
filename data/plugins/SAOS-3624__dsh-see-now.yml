@@ -1,0 +1,6 @@
+url: https://github.com/SAOS-3624/dsh-see-now
+name: SAOS-3624/dsh-see-now
+category: vision
+description:
+  zh: "让 AI 实时看见你的屏幕：每帧按变化量打分，只留下真正变了的几帧并拼进一张图。静止画面几乎不花 token，硬切幻灯片每切一次留一帧，一张图里多塞一帧不多花钱。"
+  en: "Let the model watch your screen live: every frame is scored by how much the picture changed, only the meaningful ones are kept and packed into a single image, so a static screen costs almost nothing and a hard-cut slideshow keeps exactly one frame per slide."
